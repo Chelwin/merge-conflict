@@ -1,15 +1,15 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Atlants's ConnectHome
-  role: Volunteer
+- organization: Association of Computing Machinery (ACM) & ACM-W Chapter
+  role: Student Member
   year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
-  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
+  url: http://acm.org/
+#  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
 
 
-- organization: freeCodeCamp
-  role: Contributor
-  year: 2015 &mdash; Present
+- organization: Institute of Engineering Technology
+  role: Student Member
+  year: 2013 &mdash; 2018
   url: https://www.freecodecamp.org/
-  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+#  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
